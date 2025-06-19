@@ -1,1 +1,2 @@
-HELLO this is the readme file 
+Welcome to git
+this is coming from dev adrian
