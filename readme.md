@@ -1,1 +1,3 @@
-HELLO this is the readme file 
+Heyoo everyone welcome 
+  
+Yo jonny here
