@@ -1,3 +1,2 @@
-Heyoo everyone welcome 
-  
-Yo jonny here
+Welcome to git
+this is coming from dev adrian
